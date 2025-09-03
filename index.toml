@@ -630,7 +630,7 @@ hash = "8d13f9f24b5c042bcdb27cb4448a55589b11bab63e5bc49ce9530f4b7f5c72de"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/battlestaff_mythic.json"
-hash = "6ac6b694f2045a639ea1ff67ab81121e0fcbc81f5d91ce244d2542e7f52566d1"
+hash = "8762ed3c93f2e9e47f17d7536b87a06cf23893b5bcc5065df0cc79c847361155"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/boots.json"
@@ -722,27 +722,27 @@ hash = "20e40d17a3a64936f87b3c84b465a706343075d7f2d532cd54f6ad695d718550"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_1.json"
-hash = "b888ca41ddd011ff43db1e868edc9ad3137cfd20a4638ede73ccb041e0aef920"
+hash = "7d0d04a117c497ddc6a4a7b1819d9969cd8753efba84bbc26b765c5b9175c9e0"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_2.json"
-hash = "1ce76bfe3d74d71c1079c0afc9de9e16e12dd736cc83d6cd8aeddf8af41d9d95"
+hash = "3ee4106a11c0d5fce6f564916fffabae4c7b9b06e8bc345bfcbb33a83ef481b6"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_3.json"
-hash = "32a4813b27cc4daeb78827293abd92b971fe4f65228bfee32277048b25998479"
+hash = "0dae6266d34209d777a7fa569cee2bd16ccff6479b21f1b2c7e888267eb7ac02"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_4.json"
-hash = "fef1a112b8021c1ee4b40fbb1a15ae57e3f41d78ab1db7f1c658eac5086d633b"
+hash = "3516ebb163443de57e75135d3bf4e84d3a8436f7894a10e4f54f86898248f377"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_5.json"
-hash = "c5433b1340328c2adb9f25ee2a69efe42c27c072116e3f81ad1679e48a6c75ae"
+hash = "d578b08f882dbbbfe30bf1b60543c27ac86c56cb4bb084e0e4a623fb28465af9"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/map_mythic.json"
-hash = "9fd38382fff91d06bc741d923dbf862c84d4a3edc149c4da74b67b38ace3fcc3"
+hash = "1c0f4d7111f7866c2ef739d69e2d50cc3a1aa6783e0eb9f6e77b447fb81c1e37"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/plushie.json"
@@ -782,7 +782,7 @@ hash = "2eef38303302a8ee77a743e95d1b4ee2e3d80752511907261f630c80d7f32022"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/trident_mythic.json"
-hash = "aeb37c296de80e97e2831070699d21120444ccfb385e74f9cf2e5d63fe3fa803"
+hash = "16e23d4f43aed54ad1716681bc993ac2ec0c2a8408c810fb0aafe04288c51d3c"
 
 [[files]]
 file = "config/the_vault/gear_modifiers/unique.json"
@@ -22432,6 +22432,11 @@ metafile = true
 [[files]]
 file = "mods/playeranimator.pw.toml"
 hash = "13178bc94d32f9b96e0fc78b8014eabd0ed3b1a21931f2f6027ff0eebc5e7e33"
+metafile = true
+
+[[files]]
+file = "mods/pluto.pw.toml"
+hash = "d157980f6e4b7a62b870b9a86aafb8f07342800a6ffcffb945567c6b5203af2e"
 metafile = true
 
 [[files]]
