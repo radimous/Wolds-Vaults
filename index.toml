@@ -22900,8 +22900,8 @@ hash = "3abf6791f3725c2cdce406514f7209355af85f9ca9d9583accd1529b0558676e"
 metafile = true
 
 [[files]]
-file = "mods/vault-hunters-jewel-sorting.pw.toml"
-hash = "6ac0811318971c0d1ac806e87a4318e01c0ba01a5370626859d858988f8a0a38"
+file = "mods/vault-hunters-item-sorting.pw.toml"
+hash = "353033d287ff3d24525dac6e5d1c37406fa3d793f68329eacf956fa1bc1cb924"
 metafile = true
 
 [[files]]
